@@ -6,5 +6,5 @@ We implemented three methods for comparison: deep neural networks, classificatio
 
 Datasets for this project can be found at:
 
-https://www.kaggle.com/mendozav/credit-card-fraud-detection-project
-https://www.kaggle.com/kartik2112/fraud-detection
+* https://www.kaggle.com/mendozav/credit-card-fraud-detection-project
+* https://www.kaggle.com/kartik2112/fraud-detection
