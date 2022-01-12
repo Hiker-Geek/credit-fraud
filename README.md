@@ -5,6 +5,11 @@ The goal of this project is to create a credit fraud detection program in python
 We implemented three methods for comparison: deep neural networks, classification algorithms (Logistic Regression, KNN, SVM, Decision Tree), and anomaly detection (LOF) algorithms.
 
 Datasets for this project can be found at:
+<<<<<<< HEAD
 
 https://www.kaggle.com/mendozav/credit-card-fraud-detection-project
 https://www.kaggle.com/kartik2112/fraud-detection
+=======
+* https://www.kaggle.com/mendozav/credit-card-fraud-detection-project
+* https://www.kaggle.com/kartik2112/fraud-detection
+>>>>>>> 21c3bcc6873061791847a0ea541f3a64fb4b8f5e
